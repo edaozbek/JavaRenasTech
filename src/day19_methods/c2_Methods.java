@@ -45,3 +45,10 @@ public class c2_Methods {
 
         System.out.println();
     }}
+
+//    // void method (without parameters)
+//    // void method (with parameters)\
+//    // return method (without parameters)
+//    // return method (with parameters)
+
+//you can use above methods with different access modifier and specifier
