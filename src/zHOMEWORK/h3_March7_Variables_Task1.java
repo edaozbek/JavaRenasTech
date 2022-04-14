@@ -1,6 +1,6 @@
 package zHOMEWORK;
 
-public class h3_March7th_Variables_Task1 {
+public class h3_March7_Variables_Task1 {
     //Please create a class call variable practice and make sure to create at least
     //5 different example for each data type we learned boolean and char
 

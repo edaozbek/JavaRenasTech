@@ -1,6 +1,6 @@
 package zHOMEWORK;
 
-public class h5_March7th_Variables_Task3 {
+public class h5_March7_Variables_Task3 {
     // check if 350 is divisible by 2 , 3 , 5 (Check for each number)
     // if it is divisible print : 350 is divisible by 2 true
     // if it is not divisible print : 350 is divisible by 2 false public static void main(String[] args) {

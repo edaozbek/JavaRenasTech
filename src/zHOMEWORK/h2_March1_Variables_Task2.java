@@ -1,6 +1,6 @@
 package zHOMEWORK;
 
-public class h2_March1st_Variables_Task2 {
+public class h2_March1_Variables_Task2 {
 
 
         public static void main(String[] args) {

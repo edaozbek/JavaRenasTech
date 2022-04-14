@@ -1,6 +1,6 @@
 package zHOMEWORK;
 
-public class h4_March7th_Variables_Task2 {
+public class h4_March7_Variables_Task2 {
 
     //create 5 number and use arithmetic operators (+ - * / %)
 //use each operator at least 3 times for your numbers
