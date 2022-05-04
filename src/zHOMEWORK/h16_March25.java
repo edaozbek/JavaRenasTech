@@ -2,7 +2,7 @@ package zHOMEWORK;
 
 import java.util.Scanner;
 
-public class h_16_March25 {
+public class h16_March25 {
 
     public static void main(String[] args) {
 

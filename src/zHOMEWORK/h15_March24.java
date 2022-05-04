@@ -1,6 +1,6 @@
 package zHOMEWORK;
 
-public class h_15_March24 {
+public class h15_March24 {
     public static void main(String[] args) {
         int a = 0;
 

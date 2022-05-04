@@ -1,6 +1,6 @@
 package zHOMEWORK;
 
-public class h1March1Variables_Task1 {
+public class h1_March1Variables_Task1 {
 
     // create a class called studentinfo
     // print Student Name : your name

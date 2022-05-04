@@ -1,10 +1,6 @@
 package zHOMEWORK;
 
-import jdk.internal.util.xml.impl.Input;
-
-import java.util.Scanner;
-
-public class h_17_March31 {
+public class h17_March31 {
     public static void main(String[] args) {
       /*Scanner scan=new Scanner(System.in);
         System.out.println("Please enter a number:");
