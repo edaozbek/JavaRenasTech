@@ -3,18 +3,18 @@ package day20_ReturnMethods;
 public class c2_ReturnMethods {
 
 
-    //declaration of the method
+    //decleration of the method
     // public               static           void               main        (String [] args){
-    // Access-modifier       specifier        return-type        methodName  (parameter)
-    //statements ,code
+    // Access-modifer       specifier        return-type        methodName  (paramater)
+    //statments ,code
     //}
 
-    //Access-Modifier =public, protected ,default ,private
+    //Access-Modifer =public, protected ,default ,priavate
     //specifier   : static ,final ,abstract ,synchronized
     //return type : void , any datatype(int,string,char , int [] .......)
-    //some method has parameters some don't have parameter
+    //some method has paramertes some dont have parameter
 
-    //create a method that will print minimum number from 2 number
+    //create a method that will print minumum number from 2 number
     public static void minNumber(int i1,int i2){
         String result="";
         if (i1<i2){
@@ -27,7 +27,7 @@ public class c2_ReturnMethods {
 
         System.out.println(result);
     }
-    //void means any data type and doesn't need to return anything
+    //void means any data type and doesnt need to return anything
 
 
     public static int  minNumber2(int i1,int i2){
@@ -99,7 +99,7 @@ public class c2_ReturnMethods {
 
         System.out.println("Hello This is division method ");
         System.out.println("division of " + n1 + " / "+n2);
-        // int result=n1/n2;
+       // int result=n1/n2;
         return n1/n2;
     }
 
@@ -114,4 +114,7 @@ public class c2_ReturnMethods {
     public static byte add3(byte number1 , byte number2){
         return (byte) (number1+number2);
     }
+
+
+
 }
